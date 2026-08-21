@@ -1,7 +1,7 @@
-import sum from "./Demo1";
+// import sum from "./Demo1.js";
 const a=1;
 const b=2;
 console.log("a=",a)
 console.log("b=",b)
 console.log("a+b=",a+b)
-console.log(sum(1,2,3))
+// console.log(sum(1,2,3))

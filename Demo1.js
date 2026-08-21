@@ -25,8 +25,12 @@ function sum(...num) {
     return sum
 }
 console.log(sum(1,2,3))
-console.log(sumNum(1,2))
+console.log(sumNum(1,2)); 
 
 console.log(nameStudent.branch);
 
+//single function
 export default sum;
+
+//for multiple function
+export {sum,sumNum}
